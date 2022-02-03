@@ -1,0 +1,25 @@
+Location Name,Location Status,Location Type,Manager Email ID,Alternate Manager Email ID,Built on Year,Address,Country,State,City,Phone,Fax,Zip Code,Reference Id
+Denver Office,Available,Office,example1@fatpipeinc.com,example6@fatpipeinc.com,2011,Colorado,United States of America,Colorado,Colorado,8776092233,801-281-0318 ,UT-84107,LOC001
+California Office,Damaged,Building,example2@fatpipeinc.com,example7@fatpipeinc.com,2010,Colorado,United States of America,California,California,8776092234,801-281-0319 ,UT-84105,LOC002
+Los Angeles Office,Renovation,Floor,example3@fatpipeinc.com,example8@fatpipeinc.com,2009,Colorado,United States of America,Colorado,Colorado,8776092235,801-281-0320,UT-84100,LOC003
+Utah Office,Available,Office,example4@fatpipeinc.com,example9@fatpipeinc.com,2006,Colorado,United States of America,Utah,Utah,8776092236,801-281-0321,UT-84109,LOC004
+New York Office,Available,Office,example5@fatpipeinc.com,example10@fatpipeinc.com,2007,Colorado,United States of America,New York,New York,8776092237,801-281-0322,UT-84103,LOC005
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+FIELDS,DESCRIPTION,,,,,,,,,,,,
+Location Name,Any text,,,,,,,,,,,,
+Location Status,"Default options - Available,Damaged,Renovation,Restricted,Unavailable & Unknown",,,,,,,,,,,,
+Location Type,"Default options - Auditorium,Building,Conference Room,Factory,Floor,Headquarters,House,Jetty,Lab,Lunch Hall,Office,Server Room,Stadium,Stock Room & Wharf",,,,,,,,,,,,
+Manager Email ID,Employee Email Id of employee who is designated as Location/Branch/Facility Manager. This should from employees csv.,,,,,,,,,,,,
+Alternate Manager Email ID,Enter email id of an alternate employee that shouldn't be same as entered in Manager Email ID column,,,,,,,,,,,,
+Built on Year,Any past & current year in YYYY format,,,,,,,,,,,,
+Country,Use ISO short code OR full name of country with correct spell,,,,,,,,,,,,
+State,Give full name of state with correct spell,,,,,,,,,,,,
+Phone,Phone number of the location,,,,,,,,,,,,
+Fax,Fax of the location,,,,,,,,,,,,
+City,Any text,,,,,,,,,,,,
+Zipcode,Any alpha numeric values,,,,,,,,,,,,
+Address,Any text,,,,,,,,,,,,
+Reference Id,It is Location Id.,,,,,,,,,,,,

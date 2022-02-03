@@ -1,0 +1,4 @@
+"Location Name","Location Status","Location Type","Manager Email ID","Alternate Manager Email ID","Built on Year","Address","Country","State","City","Phone","Fax","Zip Code","Reference Id"
+"Fatpipe USA","Available","Office","demouser1@stayinbusiness.net","demouser2@stayinbusiness.net","2011","Colorado","United States of America","Colorado","Colorado","8776092233","801-281-0318","UT-84107","LOC001"
+"CaliforniaOffice","Damaged","Building","demouser3@stayinbusiness.net","demouser4@stayinbusiness.net","2010","Colorado","United States of America","California","California","8776092234","801-281-0319","UT-84105","LOC002"
+"Los Angeles Office","Renovation","Floor","demouser5@stayinbusiness.net","demouser6@stayinbusiness.net","2009","Colorado","United States of America","Colorado","Colorado","8776092235","801-281-0320","UT-84100","LOC003"
