@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Leads">
+<groups>
+<run>
+<exclude name="functional"></exclude>
+</run>
+
+</groups>
+  <test thread-count="5" name="Operation" verbose="5">
+    <classes>
+     <class name="Week5.Day1.CreateLead"/>
+      <class name="Week5.Day1.EditLead"/>
+    <class name="Week5.Day1.MergeLead"/>
+    <class name="Week5.Day1.DuplicateLead"/>
+ 	<class name="Week5.Day1.DeleteLead"/> 
+      
+    </classes>
+  </test> <!-- Operation -->
+</suite> <!-- Leads -->
